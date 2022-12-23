@@ -30,8 +30,8 @@ b=temp
 print("Swapped values are:",a,b)
 ```
 
-## OUTPUT:
-!["OUTPUT"] (/Screenshot from 2022-12-23 15-00-41.png)
+## OUTPUT
+!["OUTPUT"](/Screenshot%20from%202022-12-23%2015-00-41.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
